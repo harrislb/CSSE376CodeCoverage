@@ -1,4 +1,5 @@
 package ExpediaTest;
+//Now has 100% Term Coverage, no tests need to be added.
 
 import static org.junit.Assert.*;
 
